@@ -103,7 +103,7 @@
   "dependencies": {
     "electron-store": "^8.1.0",
     "electron-window-state": "^5.0.3",
-    "pinokiod": "^3.2.0"
+    "pinokiod": "^3.8.151"
   },
   "devDependencies": {
     "@electron/rebuild": "3.2.10",
